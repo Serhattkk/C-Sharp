@@ -1,0 +1,15 @@
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\bin\Debug\net6.0\deneme1.exe
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\bin\Debug\net6.0\deneme1.deps.json
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\bin\Debug\net6.0\deneme1.runtimeconfig.json
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\bin\Debug\net6.0\deneme1.dll
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\bin\Debug\net6.0\deneme1.pdb
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\deneme1.csproj.AssemblyReference.cache
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\deneme1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\deneme1.AssemblyInfoInputs.cache
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\deneme1.AssemblyInfo.cs
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\deneme1.csproj.CoreCompileInputs.cache
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\deneme1.dll
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\refint\deneme1.dll
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\deneme1.pdb
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\deneme1.genruntimeconfig.cache
+C:\Users\kayir\Desktop\Kodlama\C#\deneme1\deneme1\obj\Debug\net6.0\ref\deneme1.dll
