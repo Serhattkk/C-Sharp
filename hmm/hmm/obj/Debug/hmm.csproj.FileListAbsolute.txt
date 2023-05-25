@@ -1,0 +1,11 @@
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\bin\Debug\hmm.exe.config
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\bin\Debug\hmm.exe
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\bin\Debug\hmm.pdb
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\obj\Debug\hmm.csproj.AssemblyReference.cache
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\obj\Debug\hmm.csproj.SuggestedBindingRedirects.cache
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\obj\Debug\hmm.Form1.resources
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\obj\Debug\hmm.Properties.Resources.resources
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\obj\Debug\hmm.csproj.GenerateResource.cache
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\obj\Debug\hmm.csproj.CoreCompileInputs.cache
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\obj\Debug\hmm.exe
+C:\Users\kayir\Desktop\Kodlama\C#\hmm\hmm\obj\Debug\hmm.pdb
